@@ -8,5 +8,7 @@ https://github.com/wimglenn/advent-of-code-wim/issues/1
 Put just the value in here without the session= prefix:
 
 Filename: utils/aoc\_cookie.json
+
 Contents:
+
 {"aoc-session-cookie": ""}
