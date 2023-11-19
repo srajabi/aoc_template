@@ -7,14 +7,14 @@ https://github.com/wimglenn/advent-of-code-wim/issues/1
 ## How to put it in this repo
 Put just the value in here without the session= prefix:
 
-Filename: utils/aoc\_cookie.json
+Filename: `utils/aoc\_cookie.json`
 
 Contents:
 
-{"aoc-session-cookie": ""}
+`{"aoc-session-cookie": "b64str"}`
 
 # How to Use
-* See p.py for an example
+* See `p.py` for an example
 * When `aoc(ans, l=1)` is executed it submits the first problem of the day.
 * If you have anything in your clipboard, that overrides and it uses that. This is for debugging.
 * Call `./c` to clear what's in your clipboard.
