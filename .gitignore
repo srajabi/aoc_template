@@ -1,0 +1,7 @@
+*.json
+*.txt
+venv/
+.DS_Store
+.idea
+__pycache__/
+*.swp
